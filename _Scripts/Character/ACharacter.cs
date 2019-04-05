@@ -36,13 +36,7 @@ namespace BTA
         //public StateEvent OnInitState = new StateEvent();
         //public StateEvent OnWalkState = new StateEvent();
         //public StateEvent OnState = new StateEvent();
-        //public StateEvent OnInitState = new StateEvent();
-        //public StateEvent OnInitState = new StateEvent();
-        //public StateEvent OnInitState = new StateEvent();
-        //public StateEvent OnInitState = new StateEvent();
-        //public StateEvent OnInitState = new StateEvent();
-        //public StateEvent OnInitState = new StateEvent();
-        //public StateEvent OnInitState = new StateEvent();
+
 
         //#endregion
 
